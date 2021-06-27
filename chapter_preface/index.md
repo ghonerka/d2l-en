@@ -452,7 +452,7 @@ requires some mathematics and programming,
 but we will only assume that you come in with some basics,
 including modest amounts of linear algebra, 
 calculus, probability, and Python programming.
-Just in case you for get the basics,
+Just in case you forget the basics,
 the Appendix provides a refresher 
 on most of the mathematics 
 you will find in this book.
