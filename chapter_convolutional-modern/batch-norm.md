@@ -144,7 +144,7 @@ We are now ready to take a look at how batch normalization works in practice.
 Batch normalization implementations for fully connected layers
 and convolutional layers are slightly different.
 We discuss both cases below.
-Recall that one key differences between batch normalization and other layers
+Recall that one of the key differences between batch normalization and other layers
 is that because batch normalization operates on a full minibatch at a time,
 we cannot just ignore the batch dimension
 as we did before when introducing other layers.
